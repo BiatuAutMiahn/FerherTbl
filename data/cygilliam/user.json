@@ -1,0 +1,17 @@
+{
+  "key": "YmI0ZWI5N2FiMDE2MTkxMzIzYzNhNzZkYTc3YjU4MmQxOWMxNWJmYmRlMzBlYzE3N2JjNDExY2Y5OWU3YmNmYjc1MjFmYjZiMTVkZmVlNzVjMDg5NGZhY2U4YjFjZWU1Y2I5MTg4NWRiODdjOWNiMTVmMWE2OTk4NjFhOTIyYmFjZDFmMjY3MGJiNDQ4NGUxNDYxMDMxNTJiOGY1ODBlMzMxYzEzMDMwNGVjZjkzODJjZTY0ZDNhNGQzMjFjNTk1",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190725202641",
+    "modified": "20190731075822",
+    "accessed": "20190731074446"
+  },
+  "detail": {
+    "FirstName": "Carolyn",
+    "LastName": "G******",
+    "Email": "g**************9@yahoo.com",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

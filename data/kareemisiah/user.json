@@ -1,0 +1,17 @@
+{
+  "key": "NmIyMjhlYjNjNDM2Zjg3YzI5YTFkMTU4ODFhNTY5NTI0ZWEwN2Q1YTcyZDk3MDA4MDIwNzI4ZDc1OGQzYjZlMjA3OGRhNjkxNzU4YTNhZThkYzkxNmU5MDdlMjVmMGRmM2UxNzg5NDdkOWQzNjkwZTFlMGZjNTA5OWU0OGYzZWE1OWZlZGFlZWFjYmQ2MTNkZmM0YWQ1MzU4ZGZmNGJjY2EwMWUwOWE4NWNmNTllYmI4MWE0N2Y3ZThiZTU3NjRh",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190520000000",
+    "modified": "20190710155758",
+    "accessed": "20190710155724"
+  },
+  "detail": {
+    "FirstName": "Kareem",
+    "LastName": "B*****",
+    "Email": "k************2@gmail.com",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

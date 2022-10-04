@@ -1,0 +1,64 @@
+!!Rewrite Master!!
+-Implement InfinityUI App
+
+-Implement Training Account /w Guided Tutorial, include QR code for auto launch.
+-Implement Static Bin Report
+-Implement "This looks like %d(x%d). The Standard Quantity for this Product is %d, your count is for an Overflow\nBin, and your entry suggests %d Boxes with a Quantity that is equal to the number of Boxes times the\nStandard Quantity. In other words the paper on the pallet could be indicating %d Boxes@Total %d.\n\nWould you like to correct this count or leave it as entered?\nCorrect/Keep [C/k]:"
+-Implement Default Bin Locations on last count field for each product (static only)
+-Implement Default Quantity on last count line
+-Implement backport for previous date's counts (for reference based counts)
+-Implement table display switch (Product Number Layout <-> Bin Location Layout)
+-Implement admin request
+-Implement admin meta management
+-Move MyTables to Main
+-Implement 'Last Seen' with cell background color to indicate severity
+-Implement 'Counter Metrics' sheet.
+  -Coverage (4 Day Coverage by counter) (Assigned, Coverage, Compliance, Consistency)
+-Implement Product Assignment per counter.
+  -Number of Active Counters/Number of Products Per Page, Randomize Pages Daily, PrePopulate Name and Date on assigned Pages
+-Implement Assignment Preference (Counter Bias)
+-Implement State Recovery on crash, (Notify Admin, Await Admin Ack or restart, upon restart for User-Identified session, auto login, goto last prompt, ie; MyTables,Prod)
+-Implement Overflow Entropy Tracking for Table Assignments (Difficulty is based on product bin randomness, ie a table has product with very inconsistent bin locations)
+  -Iterate through each product in totals, +1 point for each product, +1 point for each bin location for that product.
+  -+1 for bin inconsistency over 4 day rolling period.
+  -Average points by number of products in table.
+  -Rank tables based on number of products, with difficulty bias.
+    +3 for ?-05-OVF
+    +2 for (T-AA)-01-?
+    +2 for (A-E,H-J,N-S)-01-?
+    +2 for (F,G,K,L,M)-(01,02)-?
+    +1 for (A-S)-02-?
+    +1 for (A-S)-04-OVF
+    +1 for (T-AA)-03-OVF
+    +1 for (A-S)-02-OVF
+-Implement
+
+[Main]
+-Implement review function to review today's counts [Delayed]
+-Fix debug log view [Delayed]
+-Implement user act view [Delayed]
+-User selectable colors [Delayed]
+-Implement these functions:
+  -chdate (Change Global Date) [Done]
+  -impuser (Impersonate User)
+  -user-log (View's a user's activity)
+  -review (Review totals for date) (Users/Admins)
+  -Web Service for count analytics.
+
+[myTables]
+-Implement bin input flexibility [Done]
+-Ignore Products >28 Days old [Redacted]
+-Restrict users from creating new Tables/SubTables/Products [Delayed]
+-Separate Users in Totals [WIP]
+-Highlight Tables with counts [Delayed]
+-Implement Review before Submit [Delayed]
+-Allow direct logoff
+-As Admin...
+  -Allow editing of metadata, (Count, Bin, Description)
+
+[gentmpl]
+-Implement DefBin on last lines in primary Tables (For Select Products) [Delayed]
+-Implement DefCount on last line in primary Tables (For Select Products) [Delayed]
+-Implement OVF Table Tamplates to account for needed extra space [Delayed]
+-Implement 2 sided templates [Done]
+-Fix whitespace in table templates for multi-product sheets [WIP]

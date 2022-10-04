@@ -1,0 +1,10 @@
+{
+  "20191022": {
+    "055540": "Traceback (most recent call last):\n  File \"/var/www/fehrertbl/dev_hist.py\", line 467, in <module>\n    wait_key()\n  File \"/var/www/fehrertbl/dev_hist.py\", line 147, in wait_key\n    termios.tcsetattr(fd, termios.TCSAFLUSH, oldterm)\ntermios.error: (5, 'Input/output error')\n",
+    "055858": "Traceback (most recent call last):\n  File \"/var/www/fehrertbl/tblmgr.py\", line 2838, in <module>\n    inp=input(\":\")\n  File \"/var/www/fehrertbl/tblmgr.py\", line 114, in exp_silent_Handler\n    pop_session()\n  File \"/var/www/fehrertbl/tblmgr.py\", line 94, in pop_session\n    time.sleep(0.1)\n  File \"/var/www/fehrertbl/tblmgr.py\", line 114, in exp_silent_Handler\n    pop_session()\n  File \"/var/www/fehrertbl/tblmgr.py\", line 86, in pop_session\n    print(\"\\rClosing Session...\",end=\"\")\n  File \"/usr/lib/python3/dist-packages/colorama/ansitowin32.py\", line 40, in write\n    self.__convertor.write(text)\n  File \"/usr/lib/python3/dist-packages/colorama/ansitowin32.py\", line 143, in write\n    self.wrapped.write(text)\nOSError: [Errno 5] Input/output error\n"
+  },
+  "20221004": {
+    "162105": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/dev_hist.py\", line 467, in <module>\n    wait_key()\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/dev_hist.py\", line 147, in wait_key\n    termios.tcsetattr(fd, termios.TCSAFLUSH, oldterm)\ntermios.error: (5, 'Input/output error')\n",
+    "163917": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/tblmgr.py\", line 2766, in <module>\n    counts=usertbl[table][stable]['polist'][prod]['counts']\nKeyError: '0433'\n"
+  }
+}

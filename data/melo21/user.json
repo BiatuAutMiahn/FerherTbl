@@ -1,0 +1,17 @@
+{
+  "key": "NWViN2Q1NzA2NzEyOThjN2E5ZTBmYjlkM2EwYWY3OThkZWU1MGRmMDdlZWJjZGYyMjgwNDAxYTEwYzg4Y2UwZWU1NzhmMWM3OGRhMDVjNzAzMzU5NmNjMzc2ODZmYWE4Y2Q1ZWYyNmQyNjhkMzI5MDI5OTA1ZjM2YzA2ZGEwODVhY2IwYzY2MzNiOGE4ZTcyZDk2MmNlNWVkNWRiY2I0ODcyNzk4ZDdlY2JjY2JhMDgzYjQwYTRmMWE0ZWI0M2M2",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190627145744",
+    "modified": "20190717010648",
+    "accessed": "20190716225715"
+  },
+  "detail": {
+    "FirstName": "Quan",
+    "LastName": "W*******",
+    "Email": "alias@domain.tld",
+    "Phone": "8001237654",
+    "Shift": "1"
+  }
+}

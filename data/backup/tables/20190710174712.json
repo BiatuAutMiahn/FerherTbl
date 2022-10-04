@@ -1,0 +1,6151 @@
+{
+  "16S": {
+    "polist": {
+      "181": {
+        "bin": "d3333",
+        "counts": 1000,
+        "desc": "Sidebolster Clip",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190621131620",
+          "created": "20190530202940",
+          "modified": "20190530202940"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190621131620",
+      "created": "20190530202934",
+      "modified": "20190530202940"
+    },
+    "type": "table"
+  },
+  "020": {
+    "polist": {
+      "0433": {
+        "bin": "",
+        "counts": 350,
+        "desc": "BMW F85 FSB Cut Foam Left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0434": {
+        "bin": "",
+        "counts": 350,
+        "desc": "BMW F85 FSB Cut Foam Right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0435": {
+        "bin": "",
+        "counts": 300,
+        "desc": "BMW F85 FSB Cut Foam Middle",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0536": {
+        "bin": "cfm",
+        "counts": 160,
+        "desc": "G05/06/07 Klima Cutting Foam FSB MFS/RSE",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0537": {
+        "bin": "cfm",
+        "counts": 500,
+        "desc": "G05/06/07 6mm Cut Foam Bolster",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0538": {
+        "bin": "cfm",
+        "counts": 240,
+        "desc": "G05/06/07  6mm Aktiv Cutting Foam FSC MF",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0539": {
+        "bin": "cfm",
+        "counts": 500,
+        "desc": "G05/06/07 6mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0546": {
+        "bin": "cfm",
+        "counts": 860,
+        "desc": "G05/06/07 6mm Cut Foam LH/RH RSB 3,SR G0",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0612": {
+        "bin": "cfm",
+        "counts": 340,
+        "desc": "G05 15mm Cut Foam laminated with PP fabr",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0632": {
+        "bin": "cfm",
+        "counts": 200,
+        "desc": "G05 15mm Cut Foam laminated with PP fabr",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0661": {
+        "bin": "",
+        "counts": 90,
+        "desc": "G05 6mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0662": {
+        "bin": "cfm",
+        "counts": 340,
+        "desc": "G05 15mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0663": {
+        "bin": "cfm",
+        "counts": 300,
+        "desc": "G05 15mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0664": {
+        "bin": "cfm",
+        "counts": 340,
+        "desc": "G05 15mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0665": {
+        "bin": "cfm",
+        "counts": 300,
+        "desc": "G05 Cut Foam 580x408x15",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0666": {
+        "bin": "cfm",
+        "counts": 600,
+        "desc": "G05 15mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0667": {
+        "bin": "cfm",
+        "counts": 850,
+        "desc": "G05 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0668": {
+        "bin": "cfm",
+        "counts": 850,
+        "desc": "G05 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0669": {
+        "bin": "cfm",
+        "counts": 230,
+        "desc": "G05 Cut Foam 20mm",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0670": {
+        "bin": "cfm",
+        "counts": 250,
+        "desc": "G05/07 20mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0671": {
+        "bin": "cfm",
+        "counts": 440,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0672": {
+        "bin": "cfm",
+        "counts": 440,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0673": {
+        "bin": "cfm",
+        "counts": 200,
+        "desc": "G05/07 20mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0674": {
+        "bin": "cfm",
+        "counts": 220,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0675": {
+        "bin": "cfm",
+        "counts": 660,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0676": {
+        "bin": "cfm",
+        "counts": 660,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0677": {
+        "bin": "",
+        "counts": 220,
+        "desc": "G05/07 10mm Cut Foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0678": {
+        "bin": "cfm",
+        "counts": 300,
+        "desc": "G07 Cut Foam Mirror 15mm",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0679": {
+        "bin": "cfm",
+        "counts": 700,
+        "desc": "G07 6mm Cut Foam Side Bead",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0680": {
+        "bin": "cfm",
+        "counts": 180,
+        "desc": "G07 15mm Cut Foam Mirror",
+        "rev": [
+          "001",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011904",
+          "modified": "20190517011904"
+        }
+      },
+      "0681": {
+        "bin": "cfm",
+        "counts": 700,
+        "desc": "G07 6mm Cut Foam Side Bead",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "0684": {
+        "bin": "cfm",
+        "counts": 300,
+        "desc": "G06 BMW 15mm Cut Foam Side Bead",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "0685": {
+        "bin": "cfm",
+        "counts": 300,
+        "desc": "G06 BMW Cut Foam Side Bead",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190710044659",
+      "created": "20190517011903",
+      "modified": "20190618205657"
+    },
+    "type": "table"
+  },
+  "050": {
+    "polist": {
+      "0492": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190614160647",
+          "created": "20190614160647",
+          "modified": "20190614160647"
+        }
+      },
+      "1029": {
+        "bin": "b33",
+        "counts": 1400,
+        "desc": "G01/02 Foam-Fleece 2nd row RSB Left 40%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1031": {
+        "bin": "b32",
+        "counts": 1400,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190627234000",
+          "modified": "20190627234000"
+        }
+      },
+      "1041": {
+        "bin": "b31",
+        "counts": 3000,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190627234014",
+          "modified": "20190627234014"
+        }
+      },
+      "1048": {
+        "bin": "a33",
+        "counts": 1000,
+        "desc": "G05/06/07 Non-woven RSB 3. SR LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1049": {
+        "bin": "a32",
+        "counts": 1000,
+        "desc": "G05/06/07 Non-woven RSB 3. SR RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1050": {
+        "bin": "",
+        "counts": 0,
+        "times": {
+          "accessed": "20190517011905",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1053": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G20 3D Vlies Lehne 40% DL Li",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708214839",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1055": {
+        "bin": "a31",
+        "counts": 2000,
+        "desc": "BMW G05/07 RSB SA SA4UB 40% LH",
+        "rev": [
+          "000",
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1056": {
+        "bin": "j33",
+        "counts": 1300,
+        "desc": "BMW G05/07 RSB SA SA4UB 40% RH",
+        "rev": [
+          "000",
+          "002",
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1058": {
+        "bin": "o32",
+        "counts": 1700,
+        "desc": "",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190710042954",
+          "modified": "20190710042954"
+        }
+      },
+      "1059": {
+        "bin": "j32",
+        "counts": 1500,
+        "desc": "F97/F98 Form Fleece Bead LH FSB",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1060": {
+        "bin": "j31",
+        "counts": 1500,
+        "desc": "F97/F98 Form Fleece Bead RH FSB",
+        "rev": [
+          "000",
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1064": {
+        "bin": "i33",
+        "counts": 0,
+        "desc": "F95/F96 Non-woven Form Fleece",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190517011905",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1072": {
+        "bin": "i32",
+        "counts": 550,
+        "desc": "BMW F95/96 Form Fleece 3D",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1074": {
+        "bin": "h33",
+        "counts": 0,
+        "desc": "F95/F96 Form Fleece 3D",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190517011905",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1075": {
+        "bin": "h32",
+        "counts": 0,
+        "desc": "F95/F96 Form Fleece 3D",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190517011905",
+          "created": "20190517011905",
+          "modified": "20190517011905"
+        }
+      },
+      "1078": {
+        "bin": "h31",
+        "counts": 300,
+        "desc": "G07 Form Fleece Coin",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1079": {
+        "bin": "s33",
+        "counts": 1500,
+        "desc": "G05 Form Fleece Coin Left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1080": {
+        "bin": "s32",
+        "counts": 1000,
+        "desc": "G05 Form Fleece Coin Right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1081": {
+        "bin": "s31",
+        "counts": 1000,
+        "desc": "G05 Form Fleece Coin Left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1082": {
+        "bin": "r33",
+        "counts": 1500,
+        "desc": "G05 Form Fleece Coin Right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1083": {
+        "bin": "r32",
+        "counts": 2500,
+        "desc": "G07 Form Fleece 3D",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1084": {
+        "bin": "q31",
+        "counts": 2500,
+        "desc": "G07 Form Fleece 3D",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "1085": {
+        "bin": "",
+        "counts": 2500,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190710043325",
+          "modified": "20190710043325"
+        }
+      },
+      "1086": {
+        "bin": "q32",
+        "counts": 2500,
+        "desc": "G07 Form Fleece 3D",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "3221": {
+        "bin": "q31",
+        "counts": 250,
+        "desc": "G05/06/07 Non-woven Sport/MFS FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "3222": {
+        "bin": "p33",
+        "counts": 250,
+        "desc": "G05/06/07 Non-woven Klima FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "3223": {
+        "bin": "p32",
+        "counts": 250,
+        "desc": "G05/06/07 Non-woven Aktiv FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190625172511",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "3224": {
+        "bin": "p31",
+        "counts": 250,
+        "desc": "G05/06/07 Non-woven 3D Clima Aktiv FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190710044659",
+      "created": "20190517011905",
+      "modified": "20190710043325"
+    },
+    "type": "table"
+  },
+  "090": {
+    "polist": {
+      "0536": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708205835",
+          "created": "20190708205835",
+          "modified": "20190708205835"
+        }
+      },
+      "0780": {
+        "bin": "e26",
+        "counts": 2000,
+        "desc": "F15wire - vertical inside",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0781": {
+        "bin": "e16",
+        "counts": 1400,
+        "desc": "F15 wire - vertical outside left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0782": {
+        "bin": "e25",
+        "counts": 1400,
+        "desc": "F15 wire - vertical outside right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0783": {
+        "bin": "e15",
+        "counts": 1000,
+        "desc": " F 15 wire-horizontal front",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0784": {
+        "bin": "e24",
+        "counts": 1400,
+        "desc": "F15 wire - vertical outside left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0785": {
+        "bin": "",
+        "counts": 1600,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190628154255",
+          "modified": "20190628154255"
+        }
+      },
+      "0786": {
+        "bin": "e23",
+        "counts": 2800,
+        "desc": "F15 wire - horizontal back",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0787": {
+        "bin": "e13",
+        "counts": 1200,
+        "desc": "F15 wire - vertical inside right",
+        "rev": [
+          "000",
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0788": {
+        "bin": "e22",
+        "counts": 1200,
+        "desc": "F15 wire - vertical inside right",
+        "rev": [
+          "000",
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0789": {
+        "bin": "e12",
+        "counts": 1200,
+        "desc": "F15 wire - vertical outside left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0790": {
+        "bin": "e21",
+        "counts": 1200,
+        "desc": "F15 wire - vertical outside right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012056",
+          "modified": "20190517012056"
+        }
+      },
+      "0791": {
+        "bin": "e11",
+        "counts": 1000,
+        "desc": "F15 wire - vertical inside left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0792": {
+        "bin": "d26",
+        "counts": 1000,
+        "desc": "F15 wire - vertical inside right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0793": {
+        "bin": "d16",
+        "counts": 1200,
+        "desc": "F15 wire - vertical outside left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0794": {
+        "bin": "d25",
+        "counts": 1200,
+        "desc": "F15 wire - vertical outside right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0795": {
+        "bin": "d15",
+        "counts": 800,
+        "desc": "F15 wire - countour middle",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0796": {
+        "bin": "d24",
+        "counts": 500,
+        "desc": "F15 wire - contour left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0797": {
+        "bin": "d14",
+        "counts": 500,
+        "desc": "F15 wire - contour right",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "0813": {
+        "bin": "",
+        "counts": 2000,
+        "desc": "F15 Wire - B/SE Basic 2mm Middle L/R",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190603174950",
+          "modified": "20190603174950"
+        }
+      },
+      "0922": {
+        "bin": "",
+        "counts": 0,
+        "desc": "F15 Wire - B/SE SA 60% U Wire 2mm",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190628154648",
+          "created": "20190603174927",
+          "modified": "20190603174927"
+        }
+      },
+      "1061": {
+        "bin": "",
+        "counts": 1400,
+        "desc": "F15 Wire - B/SE Basic 3R 2mm Inside L/R",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190613164103",
+          "modified": "20190613164103"
+        }
+      },
+      "1107": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190628154648",
+          "created": "20190625142749",
+          "modified": "20190625142749"
+        }
+      },
+      "1136": {
+        "bin": "",
+        "counts": 700,
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190625152134",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1145": {
+        "bin": "d23",
+        "counts": 600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1146": {
+        "bin": "d13",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1147": {
+        "bin": "d22",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1148": {
+        "bin": "d12",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1149": {
+        "bin": "d21",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1150": {
+        "bin": "d11",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1151": {
+        "bin": "c26",
+        "counts": 1600,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1152": {
+        "bin": "c15",
+        "counts": 750,
+        "desc": "F16 Wire - Rear Seat Back 40%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012057",
+          "modified": "20190517012057"
+        }
+      },
+      "1153": {
+        "bin": "c25",
+        "counts": 1400,
+        "desc": "F16 Wire - Rear Seat Back 40%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1155": {
+        "bin": "c24",
+        "counts": 500,
+        "desc": "F16 Wire - RSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1297": {
+        "bin": "",
+        "counts": 400,
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190625152134",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1451": {
+        "bin": "",
+        "counts": 0,
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190517012058",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1765": {
+        "bin": "c14",
+        "counts": 0,
+        "desc": "F95/96 FSC U wire left",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190517012058",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1766": {
+        "bin": "c23",
+        "counts": 500,
+        "desc": "F95/F96 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190615043711",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1768": {
+        "bin": "c22",
+        "counts": 500,
+        "desc": "F95/F96 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190615043711",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1770": {
+        "bin": "c21",
+        "counts": 500,
+        "desc": "F95/F96 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190618204903",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1771": {
+        "bin": "c11",
+        "counts": 500,
+        "desc": "F95/F96 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190618204903",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1772": {
+        "bin": "b24",
+        "counts": 2000,
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "1783": {
+        "bin": "b14",
+        "counts": 500,
+        "desc": "F95/96 VoSi U-Draht rechts",
+        "rev": [
+          "001",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "2017": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190628195737",
+          "created": "20190613210408",
+          "modified": "20190613210408"
+        }
+      },
+      "2028": {
+        "bin": "b23",
+        "counts": 1600,
+        "desc": "G01/G02 Trimming Wire Longitudinal LH/RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012058",
+          "modified": "20190517012058"
+        }
+      },
+      "2038": {
+        "bin": "b13",
+        "counts": 750,
+        "desc": "G01/G02 U Wire Top",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2042": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190625145558",
+          "modified": "20190625145558"
+        }
+      },
+      "2043": {
+        "bin": "b22",
+        "counts": 750,
+        "desc": "G01/G02 U Wire Bottom",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2059": {
+        "bin": "b12",
+        "counts": 800,
+        "desc": "G05/06/07 U Wire FSB MFS/Climate FAI 05",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2061": {
+        "bin": "a24",
+        "counts": 800,
+        "desc": "G05 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2063": {
+        "bin": "a15",
+        "counts": 2200,
+        "desc": "G01/G02 Trimming Wire Longitudinal",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2064": {
+        "bin": "a23",
+        "counts": 1700,
+        "desc": "G01/G02 Trimming Wire Transverse LH/RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2065": {
+        "bin": "a14",
+        "counts": 3600,
+        "desc": "G01/G02 Trimming Wire Transverse Center",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2066": {
+        "bin": "a22",
+        "counts": 2400,
+        "desc": "G01/G02 Trimming Wire Transverse Center",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2068": {
+        "bin": "a13",
+        "counts": 800,
+        "desc": "G01/G02 U Wire Top Basis",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2069": {
+        "bin": "a21",
+        "counts": 800,
+        "desc": "G01/G02 U Wire Bottom Basis",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2070": {
+        "bin": "a12",
+        "counts": 1400,
+        "desc": "G01 Trimming Wire Longitudinal Center LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2071": {
+        "bin": "a11",
+        "counts": 1400,
+        "desc": "G01/G02 Trimming Wire Longitudinal RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2072": {
+        "bin": "j24",
+        "counts": 650,
+        "desc": "G01/G02 U Wire Sport Bottom",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2074": {
+        "bin": "j23",
+        "counts": 1300,
+        "desc": "G01/G02 U Wire Klima Top",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2075": {
+        "bin": "j13",
+        "counts": 650,
+        "desc": "G01/G02 U Wire Klima Bottom",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2076": {
+        "bin": "j12",
+        "counts": 2000,
+        "desc": "G01/G02 Wire LH/RH",
+        "rev": [
+          "001",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012059",
+          "modified": "20190517012059"
+        }
+      },
+      "2078": {
+        "bin": "j21",
+        "counts": 650,
+        "desc": "G01/G02 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2080": {
+        "bin": "j11",
+        "counts": 750,
+        "desc": "G01/G02 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2122": {
+        "bin": "i25",
+        "counts": 1500,
+        "desc": "G05/06/07 Wire Top FSB MFS FAI 03",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2123": {
+        "bin": "i15",
+        "counts": 1500,
+        "desc": "G05/06/07 Wire LH FSB Climate FAI 03",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2124": {
+        "bin": "i24",
+        "counts": 1800,
+        "desc": "G05/06/07 Wire RH FSB MFS/Climate FAI 03",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2128": {
+        "bin": "i14",
+        "counts": 1900,
+        "desc": "G05 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2129": {
+        "bin": "i23",
+        "counts": 1600,
+        "desc": "G05 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2130": {
+        "bin": "i13",
+        "counts": 1500,
+        "desc": "G05 U Wire Lower Left",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2131": {
+        "bin": "i22",
+        "counts": 400,
+        "desc": "G05 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2132": {
+        "bin": "i12",
+        "counts": 2000,
+        "desc": "G05/G07 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2133": {
+        "bin": "i21",
+        "counts": 1500,
+        "desc": "G05/G07 Wire",
+        "rev": [
+          "000",
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2135": {
+        "bin": "i11",
+        "counts": 3000,
+        "desc": "G05/G07 Wire",
+        "rev": [
+          "000",
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2138": {
+        "bin": "h24",
+        "counts": 800,
+        "desc": "G05 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2139": {
+        "bin": "h15",
+        "counts": 2000,
+        "desc": "G05 Wire LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2140": {
+        "bin": "h23",
+        "counts": 2000,
+        "desc": "G05 Wire LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2141": {
+        "bin": "h14",
+        "counts": 1700,
+        "desc": "G05 Wire RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012100",
+          "modified": "20190517012100"
+        }
+      },
+      "2142": {
+        "bin": "h22",
+        "counts": 500,
+        "desc": "G05 U Wire LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2143": {
+        "bin": "h13",
+        "counts": 500,
+        "desc": "G05 U Wire RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2148": {
+        "bin": "h21",
+        "counts": 1800,
+        "desc": "G05/06/07 Wire FSC MFS Climate Active FA",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2169": {
+        "bin": "h12",
+        "counts": 2200,
+        "desc": "G05 Wire RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2170": {
+        "bin": "h11",
+        "counts": 800,
+        "desc": "G05 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2171": {
+        "bin": "s26",
+        "counts": 700,
+        "desc": "G07 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2172": {
+        "bin": "s15",
+        "counts": 500,
+        "desc": "G07 U Wire LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2173": {
+        "bin": "s25",
+        "counts": 1500,
+        "desc": "G07 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2174": {
+        "bin": "s14",
+        "counts": 1400,
+        "desc": "G01/G02 L Wire LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2175": {
+        "bin": "s24",
+        "counts": 1500,
+        "desc": "G01/G02 L Wire RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2179": {
+        "bin": "s13",
+        "counts": 1400,
+        "desc": "G01/G02 Trimming Wire Long LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2180": {
+        "bin": "s23",
+        "counts": 1400,
+        "desc": "G01/G02 Trimming Wire Long RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2181": {
+        "bin": "s22",
+        "counts": 1200,
+        "desc": "G01/G02 Trimming Wire Long LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2182": {
+        "bin": "s12",
+        "counts": 1200,
+        "desc": "G01/G02 Trimming Wire Long RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2183": {
+        "bin": "s21",
+        "counts": 500,
+        "desc": "G07 U Wire RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012101",
+          "modified": "20190517012101"
+        }
+      },
+      "2184": {
+        "bin": "s11",
+        "counts": 650,
+        "desc": "G01/G02 U Wire LH",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2185": {
+        "bin": "r24",
+        "counts": 650,
+        "desc": "G01/G02 U Wire RH",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2186": {
+        "bin": "r14",
+        "counts": 600,
+        "desc": "G07 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2197": {
+        "bin": "r23",
+        "counts": 400,
+        "desc": "G05/06/07 U Wire Sport FAI 01",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2198": {
+        "bin": "r13",
+        "counts": 2000,
+        "desc": "G05/06/07 L Wire Sport FAI 01",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2239": {
+        "bin": "r22",
+        "counts": 500,
+        "desc": "G06 U Wire Insert",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2240": {
+        "bin": "r11",
+        "counts": 250,
+        "desc": "G06 U Wire Insert",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2241": {
+        "bin": "",
+        "counts": 3000,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190628155315",
+          "modified": "20190628155315"
+        }
+      },
+      "2242": {
+        "bin": "r12",
+        "counts": 1500,
+        "desc": "G06 Insert Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2244": {
+        "bin": "q24",
+        "counts": 2000,
+        "desc": "G06 Insert Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2284": {
+        "bin": "q14",
+        "counts": 650,
+        "desc": "G02 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2285": {
+        "bin": "q23",
+        "counts": 650,
+        "desc": "G01 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2288": {
+        "bin": "q13",
+        "counts": 500,
+        "desc": "G05/06/07 U Wire FSC MFS Climate Active",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2290": {
+        "bin": "q22",
+        "counts": 600,
+        "desc": "G05/06/07 U Wire FSB",
+        "rev": [
+          "000",
+          "001",
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2293": {
+        "bin": "q12",
+        "counts": 2000,
+        "desc": "G07 U Wire Front",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2294": {
+        "bin": "q21",
+        "counts": 1000,
+        "desc": "G07 U Wire Rear",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012102",
+          "modified": "20190517012102"
+        }
+      },
+      "2295": {
+        "bin": "q11",
+        "counts": 1000,
+        "desc": "G02 Trimming Wire Longitudinal",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2425": {
+        "bin": "",
+        "counts": 1000,
+        "desc": "G05/G07 U Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2444": {
+        "bin": "p25",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire LH FSB Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2445": {
+        "bin": "p15",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire RH FSB Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2446": {
+        "bin": "p24",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire LH FSB Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2447": {
+        "bin": "p14",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire RH FSB Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2448": {
+        "bin": "p23",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire LH FSB Sport Climate",
+        "rev": [
+          "003",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2449": {
+        "bin": "p13",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire RH FSB Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2450": {
+        "bin": "p22",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire LH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190618204903",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2451": {
+        "bin": "p12",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire RH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190618204903",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2452": {
+        "bin": "p21",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire FSC Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2453": {
+        "bin": "p11",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire FSC Sport Climate",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190618204903",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2534": {
+        "bin": "p26",
+        "counts": 1000,
+        "desc": "F97/F98 Insert Wire Top Center FSB Sport",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2551": {
+        "bin": "o15",
+        "counts": 400,
+        "desc": "G05 Wire RSC",
+        "rev": [
+          "001",
+          "002",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012103",
+          "modified": "20190517012103"
+        }
+      },
+      "2552": {
+        "bin": "o26",
+        "counts": 700,
+        "desc": "G05 U Wire Lower Left LH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2553": {
+        "bin": "o14",
+        "counts": 700,
+        "desc": "G05 U Wire Lower Left RH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2554": {
+        "bin": "o25",
+        "counts": 800,
+        "desc": "G05 U Wire Upper Left LH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2555": {
+        "bin": "o13",
+        "counts": 800,
+        "desc": "G05 U Wire Upper Left RH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2556": {
+        "bin": "o24",
+        "counts": 1000,
+        "desc": "G05/G07 Upper U Wire RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2557": {
+        "bin": "o12",
+        "counts": 500,
+        "desc": "G05/G07 Wire Middle LH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2558": {
+        "bin": "o23",
+        "counts": 500,
+        "desc": "G05/G07 Wire Middle RH RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710041926",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2559": {
+        "bin": "o11",
+        "counts": 500,
+        "desc": "G07 U Wire FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2560": {
+        "bin": "o22",
+        "counts": 1900,
+        "desc": "G07 Wire Upper Front FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2561": {
+        "bin": "o21",
+        "counts": 1900,
+        "desc": "G07 Wire Long Mirror FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2562": {
+        "bin": "n14",
+        "counts": 500,
+        "desc": "G07 U Wire FSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2563": {
+        "bin": "n26",
+        "counts": 1500,
+        "desc": "G07 Wire FSB",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2564": {
+        "bin": "n25",
+        "counts": 1500,
+        "desc": "G07 Wire FSB",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2565": {
+        "bin": "n13",
+        "counts": 700,
+        "desc": "G05/G07 U Wire RSC 60%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2566": {
+        "bin": "n24",
+        "counts": 1000,
+        "desc": "G05/G07 Wire RSC 60%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2567": {
+        "bin": "n23",
+        "counts": 1000,
+        "desc": "G05/G07 Wire RSB",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012104",
+          "modified": "20190517012104"
+        }
+      },
+      "2573": {
+        "bin": "n12",
+        "counts": 1000,
+        "rev": [
+          "001",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012105",
+          "modified": "20190517012105"
+        }
+      },
+      "2574": {
+        "bin": "n22",
+        "counts": 750,
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190708211113",
+          "created": "20190517012105",
+          "modified": "20190517012105"
+        }
+      },
+      "2575": {
+        "bin": "n21",
+        "counts": 1000,
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012105",
+          "modified": "20190517012105"
+        }
+      },
+      "2576": {
+        "bin": "n11",
+        "counts": 750,
+        "rev": [
+          "001",
+          "002",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190517012105",
+          "modified": "20190517012105"
+        }
+      },
+      "2582": {
+        "bin": "",
+        "counts": 1500,
+        "desc": "G06 Wire Middle",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710040705",
+          "created": "20190625184043",
+          "modified": "20190625184043"
+        }
+      },
+      "2595": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190625184056",
+          "created": "20190606001548",
+          "modified": "20190606001548"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190710041926",
+      "created": "20190517012056",
+      "modified": "20190708205835"
+    },
+    "type": "table"
+  },
+  "100": {
+    "polist": {
+      "0173": {
+        "bin": "",
+        "counts": 200,
+        "desc": "WX166 Wireframe Right",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190621131126",
+          "modified": "20190621131126"
+        }
+      },
+      "0221": {
+        "bin": "",
+        "counts": 100,
+        "desc": "F15 contour wire (wire only)",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190621131104",
+          "modified": "20190621131104"
+        }
+      },
+      "0233": {
+        "bin": "",
+        "counts": 200,
+        "desc": "BMW F85 Konturb\u00fcgel 5mm f\u00fcr STV",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011906",
+          "modified": "20190517011906"
+        }
+      },
+      "0283": {
+        "bin": "",
+        "counts": 300,
+        "desc": "F85 Frame FSC Basic 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0300": {
+        "bin": "m1o",
+        "counts": 100,
+        "desc": "G01/G02 Contour Wire",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0303": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G06 Wire Frame RSC 100%",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190517011907",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0311": {
+        "bin": "",
+        "counts": 1000,
+        "desc": "G05/06/07  Wire FSC MFS Climate Active C",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0341": {
+        "bin": "m2o",
+        "counts": 400,
+        "desc": "G05/G07 Wire",
+        "rev": [
+          "000",
+          "001"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0342": {
+        "bin": "l2o",
+        "counts": 35,
+        "desc": "G05/G07 Wire Frame",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0347": {
+        "bin": "m2o",
+        "counts": 400,
+        "desc": "G05/G07 Wire",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0366": {
+        "bin": "m2o",
+        "counts": 300,
+        "desc": "G07 Wire",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0379": {
+        "bin": "",
+        "counts": 100,
+        "desc": "Sample Wires",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190606214438",
+          "modified": "20190606214438"
+        }
+      },
+      "0395": {
+        "bin": "l1o",
+        "counts": 50,
+        "desc": "G05/G07 Wire Frame",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "0403": {
+        "bin": "k2o",
+        "counts": 50,
+        "desc": "G05 wireframe",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "1480": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190610211638",
+          "created": "20190610211638",
+          "modified": "20190610211638"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011906",
+      "modified": "20190709123001"
+    },
+    "type": "table"
+  },
+  "122": {
+    "polist": {
+      "043": {
+        "bin": "k2o",
+        "counts": 20,
+        "desc": "ULTRA-MATE(R), 15MM BLACK 330 PSA 9915, SCORED TO 66MM",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190521172224",
+          "modified": "20190521172224"
+        }
+      },
+      "044": {
+        "bin": "k2o",
+        "counts": 20,
+        "desc": "ULTRA-MATE(R), 15MM BLACK 330 PSA 9915, SCORED TO 125MM",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190521172250",
+          "modified": "20190521172250"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190627200800",
+      "created": "20190521172208",
+      "modified": "20190521172250"
+    },
+    "type": "table"
+  },
+  "126": {
+    "polist": {
+      "066": {
+        "bin": "k2o",
+        "counts": 20,
+        "desc": "ULTRA-MATE(R), 20MM BLACK, SCORED TO 180MM",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "259": {
+        "bin": "k2o",
+        "counts": 20,
+        "desc": "ULTRA-MATE(R), 20MM BLACK 330 PSA 9915, 1524 PC/RL SCORED TO 30MM",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "260": {
+        "bin": "k2o",
+        "counts": 20,
+        "desc": "ULTRA-MATE(R), 15MM BLACK 330 PSA 9915, 914 PC/RL SCORED TO 50MM",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190627200800",
+      "created": "20190517011908",
+      "modified": "20190517011908"
+    },
+    "type": "table"
+  },
+  "130": {
+    "polist": {
+      "0635": {
+        "bin": "d3321",
+        "counts": 0,
+        "desc": "G05 Fixing Plate Left SAB",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190530203008",
+          "created": "20190530203008",
+          "modified": "20190530203008"
+        }
+      },
+      "0636": {
+        "bin": "d3322",
+        "counts": 0,
+        "desc": "G05 Fixing Plate Right SAB",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190530203013",
+          "created": "20190530203013",
+          "modified": "20190530203013"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190604013936",
+      "created": "20190530203004",
+      "modified": "20190530203013"
+    },
+    "type": "table"
+  },
+  "150": {
+    "polist": {
+      "0512": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190614165223",
+          "modified": "20190614165223"
+        }
+      },
+      "1480": {
+        "bin": "",
+        "counts": 120,
+        "desc": "Hard Foam Insert",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "1485": {
+        "bin": "e31",
+        "counts": 500,
+        "desc": "Chip Foa",
+        "rev": [
+          "101"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "5012": {
+        "bin": "z1o",
+        "counts": 550,
+        "desc": "G01/G02 Insert Part SVB - RG180 RSC 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "5043": {
+        "bin": "",
+        "counts": 500,
+        "desc": "G01/G02 Insert Part SVB - RG180 RSC 100%",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      },
+      "5044": {
+        "bin": "",
+        "counts": 650,
+        "desc": "G05 Insert Part RG180 100% crumb foam",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011907",
+          "modified": "20190517011907"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011907",
+      "modified": "20190614165223"
+    },
+    "type": "table"
+  },
+  "160": {
+    "polist": {
+      "0233": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190614162021",
+          "created": "20190614162021",
+          "modified": "20190614162021"
+        }
+      },
+      "1771": {
+        "bin": "c32",
+        "counts": 375,
+        "desc": "G01 Clip Side Part",
+        "rev": [
+          "003",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "1772": {
+        "bin": "c31",
+        "counts": 400,
+        "desc": "G01 Clip Side Part Fan Grid",
+        "rev": [
+          "004",
+          "006"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "1900": {
+        "bin": "d3336",
+        "counts": 450,
+        "desc": "BMW SP Clip G05/G23",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011908",
+      "modified": "20190614162021"
+    },
+    "type": "table"
+  },
+  "161": {
+    "polist": {
+      "447": {
+        "bin": "d31",
+        "counts": 600,
+        "desc": "Vent Ring",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "852": {
+        "counts": 1300,
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "875": {
+        "bin": "c33",
+        "counts": 10000,
+        "desc": "AFEU161875 Bladder Clip (Plastic)",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "8939": {
+        "bin": "l2o",
+        "counts": 210,
+        "desc": "G02 Active Plate FSC",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011908",
+      "modified": "20190611181904"
+    },
+    "type": "table"
+  },
+  "163": {
+    "polist": {
+      "0191": {
+        "bin": "d3325",
+        "counts": 450,
+        "desc": "BMW G01/G02/G06 Clip Side Part",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011909",
+          "modified": "20190517011909"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011909",
+      "modified": "20190517011909"
+    },
+    "type": "table"
+  },
+  "170": {
+    "polist": {
+      "1887": {
+        "bin": "",
+        "counts": 800,
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190709122929",
+          "created": "20190517011908",
+          "modified": "20190517011908"
+        }
+      },
+      "1888": {
+        "bin": "",
+        "counts": 800,
+        "desc": "G06 Grid Foam SAB SB PES Knitting",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190621131620",
+          "created": "20190517011909",
+          "modified": "20190517011909"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190709122929",
+      "created": "20190517011908",
+      "modified": "20190517011908"
+    },
+    "type": "table"
+  },
+  "210": {
+    "polist": {
+      "240X": {
+        "bin": "",
+        "counts": 500,
+        "desc": "E53 Fleece",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190708214839",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "0435": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190618013157",
+          "created": "20190618013157",
+          "modified": "20190618013157"
+        }
+      },
+      "471X": {
+        "bin": "",
+        "counts": 0,
+        "desc": "E85 Fleece",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190621125452",
+          "modified": "20190621125452"
+        }
+      },
+      "0492": {
+        "bin": "e34",
+        "counts": 2400,
+        "desc": "F15 fleece - banana",
+        "rev": [
+          "100",
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0495": {
+        "bin": "e33",
+        "counts": 2000,
+        "desc": "E71 4+1 RSC Fleece",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190708214839",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0536": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190618013212",
+          "created": "20190618013212",
+          "modified": "20190618013212"
+        }
+      },
+      "0542": {
+        "bin": "",
+        "counts": 500,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190617174437",
+          "modified": "20190617174437"
+        }
+      },
+      "0578": {
+        "bin": "e32",
+        "counts": 1200,
+        "desc": "F15 fleece - FSB MFS Climate",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0579": {
+        "bin": "e31",
+        "counts": 2400,
+        "desc": "F15 fleece - FSB MFS Climate",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0582": {
+        "bin": "",
+        "counts": 100,
+        "desc": "SERVICE PARTS",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190527215954",
+          "modified": "20190527215954"
+        }
+      },
+      "0583": {
+        "bin": "",
+        "counts": 200,
+        "desc": "F15 fleece - 2D FSC Basic",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0584": {
+        "bin": "",
+        "counts": 250,
+        "desc": "F15 fleece - 2D FSC Sport/MFS",
+        "rev": [
+          "000",
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0585": {
+        "bin": "",
+        "counts": 250,
+        "desc": "F15 fleece - 2D FSC MFS Climate",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0632": {
+        "bin": "d33",
+        "counts": 1200,
+        "desc": "F15 fleece - FSB Basic/Sport",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0633": {
+        "bin": "d32",
+        "counts": 1200,
+        "desc": "F15 fleece - FSB MFS",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0952": {
+        "bin": "",
+        "counts": 250,
+        "desc": "F85 fleece - FSC",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "0953": {
+        "bin": "",
+        "counts": 250,
+        "desc": "F85 fleece - FSC",
+        "rev": [
+          "100"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190517011901",
+          "modified": "20190517011901"
+        }
+      },
+      "1006": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190621131620",
+          "created": "20190605022208",
+          "modified": "20190605022208"
+        }
+      },
+      "1056": {
+        "bin": "o33",
+        "counts": 2000,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "003",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1058": {
+        "bin": "o32",
+        "counts": 1700,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1059": {
+        "bin": "o31",
+        "counts": 1700,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1060": {
+        "bin": "n33",
+        "counts": 1700,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1061": {
+        "bin": "n32",
+        "counts": 2000,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "002",
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1106": {
+        "bin": "t1o",
+        "counts": 1700,
+        "desc": "G05/06/07 Non-woven Front Backrest MFS P",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1107": {
+        "bin": "t1o",
+        "counts": 1700,
+        "desc": "G05/06/07 Non-woven FSB MFS Klima",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1108": {
+        "bin": "u1o",
+        "counts": 7000,
+        "desc": "G05/06/07 Non-woven FSB MFS HSEfor HH Fo",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1113": {
+        "bin": "u1o",
+        "counts": 800,
+        "desc": "G05/06/07 Non-woven RSC SA 40% LH",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1114": {
+        "bin": "",
+        "counts": 1500,
+        "desc": "G05/06/07 Non-woven RSC SA 60% LH",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1252": {
+        "bin": "v1o",
+        "counts": 1000,
+        "desc": "G05/06/07 Non-woven FSB Sport",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1285": {
+        "bin": "",
+        "counts": 15000,
+        "desc": "G01/G02 Non-woven Main Section PP-Fleece",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1387": {
+        "bin": "",
+        "counts": 2000,
+        "desc": "G06 HiSi 100% Vlies PES 300g Mat 63021",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1388": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05/06/07 Non-Woven RSC 3. SR LH/RH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1389": {
+        "bin": "",
+        "counts": 2000,
+        "desc": "G05/06/07 Non-Woven RSB 3. SR LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627234232",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1390": {
+        "bin": "",
+        "counts": 3000,
+        "desc": "G05/06/07 Non-Woven RSB 3. SR LH",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1463": {
+        "bin": "",
+        "counts": 1300,
+        "desc": "F97/F98 Form Fleece PP FSB",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011902",
+          "modified": "20190517011902"
+        }
+      },
+      "1464": {
+        "bin": "",
+        "counts": 1300,
+        "desc": "F97/F98 Form Fleece PP FSB",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "1465": {
+        "bin": "",
+        "counts": 1500,
+        "desc": "F97/F98 Form Fleece PP FSC",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "1466": {
+        "bin": "",
+        "counts": 2200,
+        "desc": "F97/F98 Form Fleece PP FSC",
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190618014111",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "1475": {
+        "bin": "",
+        "counts": 1500,
+        "desc": "F95_96_VoLe Vlies Spiegel",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      },
+      "1604": {
+        "bin": "w1o",
+        "counts": 800,
+        "desc": "G07 Non-Woven Fleece Mirror",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190710044659",
+          "created": "20190517011903",
+          "modified": "20190517011903"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190710044659",
+      "created": "20190517011901",
+      "modified": "20190621125452"
+    },
+    "type": "table"
+  },
+  "383": {
+    "polist": {
+      "1097": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Black fabric anthracite Left",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1098": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Black fabric anthracite right",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1099": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Black vinyl Grain 80 a.c. lef",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1100": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Black vinyl Grain 80 a.c. right",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1101": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Camberrab vinyl Grain 80 a.c. LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1102": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 SB Camberrab vinyl Grain 80 a.c. RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1107": {
+        "bin": "",
+        "counts": 50,
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1113": {
+        "bin": "",
+        "counts": 20,
+        "desc": "Basis Leather Merino Fein Grain Ivory LH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1114": {
+        "bin": "",
+        "counts": 20,
+        "desc": "Basis Leath Merino Fein Grain Ivory RH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1115": {
+        "bin": "",
+        "counts": 20,
+        "desc": "Basis Leath Merino Fein Grain Tartufo LH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1116": {
+        "bin": "",
+        "counts": 20,
+        "desc": "Basis Leath Merino Fein Grain Tartufo RH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012008",
+          "modified": "20190517012008"
+        }
+      },
+      "1117": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F97 Leath Merino Fein Grain Black LH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1118": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F97 Leath Merino Fein Grain Black RH",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1121": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Black Fabric Anthrazit LH",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1122": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Black Fabric Anthrazit RH",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1123": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Black Vinyl Grain 80 LH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1124": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Black Vinyl Grain 80 RH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1125": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Canberrabeige Vinyl Grain 80 LH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1126": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Canberrabeige Vinyl Grain 80 RH",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1128": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Black RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190603175751",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1129": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621175131",
+          "modified": "20190621175131"
+        }
+      },
+      "1130": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Oyster RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1131": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G02 SB Vernasca Mokka LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1132": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Mokka RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1133": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Verna. Canberrabeige LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1134": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Verna. Canberrabeige RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1135": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Cognac LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1136": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Cognac RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1137": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Elfenbein LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012009",
+          "modified": "20190517012009"
+        }
+      },
+      "1138": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Elfenbein RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1139": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Tartufo LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1140": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Tartufo RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1141": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Fionarot Bicolor LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1142": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Merino Fionarot Bicolor RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1143": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Tacorarot LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1144": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G02 SB Vernasca Tacorarot RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1147": {
+        "bin": "d3421",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca White Ivory LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1148": {
+        "bin": "d3422",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca White Ivory RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1149": {
+        "bin": "d3423",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Canberra Beige LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1150": {
+        "bin": "d3424",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Canberra Beige RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1151": {
+        "bin": "d3425",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Coffee LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1152": {
+        "bin": "d3426",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Coffee RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190615043711",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1153": {
+        "bin": "d3431",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Cognac LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1154": {
+        "bin": "d3432",
+        "counts": 20,
+        "desc": "G05 SB FIP cover Vernasca cognac rh",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190621180405",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1155": {
+        "bin": "d3433",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Black LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190615043711",
+          "created": "20190517012010",
+          "modified": "20190517012010"
+        }
+      },
+      "1156": {
+        "bin": "d3434",
+        "counts": 20,
+        "desc": "G05 SB FIP Vernasca Black RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190603180151",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1157": {
+        "bin": "d3435",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Black LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1158": {
+        "bin": "d3436",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Black RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1161": {
+        "bin": "d3315",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Coffee LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1162": {
+        "bin": "d3316",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Coffee RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1165": {
+        "bin": "d3411",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Tartufo LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1166": {
+        "bin": "d3412",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Tartufo RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1167": {
+        "bin": "d3413",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Ivory White LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1168": {
+        "bin": "d3414",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Ivory White RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1171": {
+        "bin": "d3415",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Night Blue LH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1172": {
+        "bin": "d3416",
+        "counts": 20,
+        "desc": "G05 SB FIP Merino Night Blue RH",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1221": {
+        "bin": "d3231",
+        "counts": 20,
+        "desc": "G05 SB SAB Vinyl grain 80 black le",
+        "rev": [
+          "007",
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1222": {
+        "bin": "d3232",
+        "counts": 20,
+        "desc": "G05 SB SAB Vinyl Grain 80 black ri",
+        "rev": [
+          "007",
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1223": {
+        "bin": "d3233",
+        "counts": 20,
+        "desc": "G05 SB SAB Vernasca white ivory le",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1224": {
+        "bin": "d3234",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca white ivory ri",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1225": {
+        "bin": "d3235",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca black le",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012011",
+          "modified": "20190517012011"
+        }
+      },
+      "1226": {
+        "bin": "d3236",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca black ri",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1227": {
+        "bin": "d3121",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca canbeige le",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1228": {
+        "bin": "d3122",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca canbeige ri",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1229": {
+        "bin": "d3123",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino black LH",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1230": {
+        "bin": "d3124",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino black RH",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1245": {
+        "bin": "d3135",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca coffee LH",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1246": {
+        "bin": "d3126",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca coffee ri",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1247": {
+        "bin": "d3221",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca cognac le",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1248": {
+        "bin": "d3223",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Vernasca cognac ri",
+        "rev": [
+          "007",
+          "008"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1249": {
+        "bin": "d3225",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino ivory white le",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1250": {
+        "bin": "d3226",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino white ivory ri",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1251": {
+        "bin": "d3111",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino coffee le",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1252": {
+        "bin": "d3112",
+        "counts": 20,
+        "desc": "G05 SB SAB trim Merino coffee ri",
+        "rev": [
+          "009",
+          "010",
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1253": {
+        "bin": "d3113",
+        "counts": 0,
+        "desc": "G05 SB Merino Tartufo SAB LH",
+        "rev": [
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1254": {
+        "bin": "d3114",
+        "counts": 0,
+        "desc": "G05 SB Merino Tartufo SAB RH",
+        "rev": [
+          "009"
+        ],
+        "times": {
+          "accessed": "20190603180759",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1255": {
+        "bin": "d3115",
+        "counts": 20,
+        "desc": "G05 SB SAB Vinyl 80 canberra beige le",
+        "rev": [
+          "007",
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1256": {
+        "bin": "d3116",
+        "counts": 20,
+        "desc": "G05 SB SAB Vinyl 80 canberra beige ri",
+        "rev": [
+          "007",
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012012",
+          "modified": "20190517012012"
+        }
+      },
+      "1257": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190621182600",
+          "created": "20190615030225",
+          "modified": "20190615030225"
+        }
+      },
+      "1261": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F97 Merino Orange SB LH FIP",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1262": {
+        "bin": "",
+        "counts": 0,
+        "desc": "F97 Merino Orange SB RH FIP",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190619165634",
+          "modified": "20190619165634"
+        }
+      },
+      "1263": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F97 Merino Grey SB LH FIP",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1264": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F97 Merino Grey SB RH FIP",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1265": {
+        "bin": "d3211",
+        "counts": 25,
+        "desc": "G06 SB SAB Vernasca Mokka LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1266": {
+        "bin": "d3212",
+        "counts": 20,
+        "desc": "G06 SB SAB Vernasca Mokka RH",
+        "rev": [
+          "005",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1267": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G06 SB SAB Vernasca Black LH",
+        "rev": [
+          "004",
+          "005"
+        ],
+        "times": {
+          "accessed": "20190613214733",
+          "created": "20190610170227",
+          "modified": "20190610170227"
+        }
+      },
+      "1275": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G06 SB SAB Merino Black LH",
+        "rev": [
+          "005",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1276": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190710060240",
+          "modified": "20190710060240"
+        }
+      },
+      "1277": {
+        "bin": "d3215",
+        "counts": 20,
+        "desc": "G06 SB SAB Merino Nachtblau LH",
+        "rev": [
+          "005",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1278": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G06 SB SAB Merino Nachtblau RH",
+        "rev": [
+          "004",
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1281": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190626201500",
+          "modified": "20190626201500"
+        }
+      },
+      "1285": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F98 Merino Grey SB LH FIP",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1286": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F98 Merino Grey SB RH FIP",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1287": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F98 Merino Orange SB LH FIP",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1288": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F98 Merino Orange SB RH FIP",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1289": {
+        "bin": "",
+        "counts": 50,
+        "desc": "Vinyl Ray Black LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1290": {
+        "bin": "",
+        "counts": 50,
+        "desc": "Vinyl Ray Black RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1291": {
+        "bin": "",
+        "counts": 50,
+        "desc": "Vinyl Ray Canberrabeige LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1292": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray canberrabeige RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012013",
+          "modified": "20190517012013"
+        }
+      },
+      "1293": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Oyster 71 LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1294": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Oyster 71 RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1295": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Cognac LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1296": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Cognac RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1297": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Mokka LH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1298": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G01 Vinyl Ray Mokka RH",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1301": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190710142915",
+          "modified": "20190710142915"
+        }
+      },
+      "1302": {
+        "bin": "",
+        "counts": 20,
+        "desc": "F95 SB SAB trim Merino Silverstone RH",
+        "rev": [
+          "010",
+          "009"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190522172449",
+          "modified": "20190522172449"
+        }
+      },
+      "1304": {
+        "bin": "",
+        "counts": 25,
+        "desc": "F95 SB SAB trim Merino Sakhier Orange RH",
+        "rev": [
+          "009",
+          "010"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1310": {
+        "bin": "",
+        "counts": 30,
+        "desc": "F95 FIP Right Silverstone Merino",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1311": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190626201709",
+          "modified": "20190626201709"
+        }
+      },
+      "1312": {
+        "bin": "",
+        "counts": 30,
+        "desc": "F95 FIP Right Sakhier Orange Merino",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1313": {
+        "bin": "",
+        "counts": 30,
+        "desc": "F95 FIP Left Adelaide Grau Merino",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1314": {
+        "bin": "",
+        "counts": 30,
+        "desc": "F95 FIP Right Adelaide Grau Merino",
+        "rev": [
+          "007"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1317": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G06 SB Vernasca LH Mokka FIP",
+        "rev": [
+          "003",
+          "002",
+          "005"
+        ],
+        "times": {
+          "accessed": "20190613214733",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1318": {
+        "bin": "",
+        "counts": 30,
+        "desc": "G06 SB Vernasca RH Mokka FIP",
+        "rev": [
+          "003",
+          "002",
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1319": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G06 SB Vernasca LH Black FIP",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1320": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G06 SB Vernasca RH Black FIP",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1329": {
+        "bin": "",
+        "counts": 25,
+        "desc": "G06 SB Merino LH Black FIP",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012014",
+          "modified": "20190517012014"
+        }
+      },
+      "1330": {
+        "bin": "",
+        "counts": 25,
+        "desc": "G06 SB Merino RH Black FIP",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1332": {
+        "bin": "",
+        "counts": 20,
+        "rev": [
+          "002"
+        ],
+        "times": {
+          "accessed": "20190613214733",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1339": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Black",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1340": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Black",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1341": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Oyster",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1342": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Oyster",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1343": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Mokka",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1344": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Mokka",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1345": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Canberra Beige",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1346": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Canberra Beige",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1347": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Cognac",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1348": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Cognac",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1349": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 LH Vinyl Ray FIP Tacorarot",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1350": {
+        "bin": "",
+        "counts": 50,
+        "desc": "G02 RH Vinyl Ray FIP Tacorarot",
+        "rev": [
+          "003"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1351": {
+        "bin": "",
+        "counts": 10,
+        "desc": "G05 SB Merino Night Blue SAB LH",
+        "rev": [
+          "010"
+        ],
+        "times": {
+          "accessed": "20190603175411",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1352": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB Merino Night Blue SAB RH",
+        "rev": [
+          "010"
+        ],
+        "times": {
+          "accessed": "20190528220629",
+          "created": "20190517012015",
+          "modified": "20190517012015"
+        }
+      },
+      "1382": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl grain 80 black RH",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "1387": {
+        "bin": "",
+        "counts": 0,
+        "times": {
+          "accessed": "20190517012016",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "1401": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray ivory white lh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141042",
+          "modified": "20190621141042"
+        }
+      },
+      "1402": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray ivory white rh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141129",
+          "modified": "20190621141129"
+        }
+      },
+      "1403": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray can beige lh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190625172511",
+          "created": "20190625170112",
+          "modified": "20190625170112"
+        }
+      },
+      "1404": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray can beige rh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190625170120",
+          "modified": "20190625170120"
+        }
+      },
+      "1405": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray coffee lh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141059",
+          "modified": "20190621141059"
+        }
+      },
+      "1406": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray coffee rh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190619154401",
+          "modified": "20190619154401"
+        }
+      },
+      "1407": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray cognac lh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141032",
+          "modified": "20190621141032"
+        }
+      },
+      "1408": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray cognac rh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190619154304",
+          "modified": "20190619154304"
+        }
+      },
+      "1409": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray black lh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141136",
+          "modified": "20190621141136"
+        }
+      },
+      "1410": {
+        "bin": "",
+        "counts": 0,
+        "desc": "G05 SB FIP Vinyl Ray black rh",
+        "rev": [
+          "004"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190621141154",
+          "modified": "20190621141154"
+        }
+      },
+      "1433": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190710155546",
+          "modified": "20190710155546"
+        }
+      },
+      "1434": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190710155519",
+          "modified": "20190710155519"
+        }
+      },
+      "1435": {
+        "bin": "",
+        "counts": 0,
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "1436": {
+        "bin": "",
+        "counts": 0,
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190626201922",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "1437": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190625170208",
+          "modified": "20190625170208"
+        }
+      },
+      "1438": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "001"
+        ],
+        "times": {
+          "accessed": "20190710155651",
+          "created": "20190710155557",
+          "modified": "20190710155557"
+        }
+      },
+      "2807": {
+        "bin": "",
+        "counts": 0,
+        "times": {
+          "accessed": "20190520172859",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "2816": {
+        "bin": "",
+        "counts": 60,
+        "desc": "G20 BMW SB CLOTH LH ANTHRAZIT",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "2817": {
+        "bin": "",
+        "counts": 60,
+        "desc": "G20 BMW SB CLOTH RH ANTHRAZIT",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190517012016",
+          "modified": "20190517012016"
+        }
+      },
+      "2822": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190619125105",
+          "created": "20190619124809",
+          "modified": "20190619124809"
+        }
+      },
+      "2823": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "???"
+        ],
+        "times": {
+          "accessed": "20190619125105",
+          "created": "20190619124847",
+          "modified": "20190619124847"
+        }
+      },
+      "2827": {
+        "bin": "",
+        "counts": 60,
+        "desc": "G20 BMW SB VINYL RAY RH BLACK",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190520173021",
+          "modified": "20190520173021"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190710155651",
+      "created": "20190517012008",
+      "modified": "20190710155557"
+    },
+    "type": "table"
+  },
+  "390": {
+    "polist": {
+      "1137": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190701144037",
+          "created": "20190701144037",
+          "modified": "20190701144037"
+        }
+      },
+      "2816": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "005"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190701142231",
+          "modified": "20190701142231"
+        }
+      },
+      "2817": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G20 BMW SB CLOTH RH ANTHRAZIT",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190605143030",
+          "modified": "20190605143030"
+        }
+      },
+      "2822": {
+        "bin": "",
+        "counts": 20,
+        "desc": "G20 BMW SIDE SOLSTER VER LH CB",
+        "rev": [
+          "005",
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190605142816",
+          "modified": "20190605142816"
+        }
+      },
+      "2823": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190701144019",
+          "modified": "20190701144019"
+        }
+      },
+      "2826": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190627200141",
+          "modified": "20190627200141"
+        }
+      },
+      "2827": {
+        "bin": "",
+        "counts": 0,
+        "desc": "",
+        "rev": [
+          "006"
+        ],
+        "times": {
+          "accessed": "20190701145221",
+          "created": "20190627200204",
+          "modified": "20190627200204"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190701145221",
+      "created": "20190517011909",
+      "modified": "20190701144037"
+    },
+    "type": "table"
+  },
+  "625": {
+    "polist": {
+      "03": {
+        "bin": "m2o",
+        "counts": 5000,
+        "desc": "3600064-000 REV 000, VELCRO STRIP",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190521182257",
+          "modified": "20190521182257"
+        }
+      },
+      "06": {
+        "bin": "m2o",
+        "counts": 5000,
+        "desc": "3600063-000 REV 000, VELCRO STRIP",
+        "rev": [
+          "000"
+        ],
+        "times": {
+          "accessed": "20190627200800",
+          "created": "20190521182247",
+          "modified": "20190521182247"
+        }
+      }
+    },
+    "times": {
+      "accessed": "20190627200800",
+      "created": "20190521182243",
+      "modified": "20190618205642"
+    },
+    "type": "table"
+  },
+  "1100": {
+    "times": {
+      "accessed": "20190604014114",
+      "created": "20190517011755",
+      "modified": "20190604014309"
+    },
+    "type": "table"
+  },
+  "1101": {
+    "times": {
+      "accessed": "20190604014318",
+      "created": "20190517011800",
+      "modified": "20190604014350"
+    },
+    "type": "table"
+  },
+  "1106": {
+    "times": {
+      "accessed": "20190604014404",
+      "created": "20190517011801",
+      "modified": "20190604014414"
+    },
+    "type": "table"
+  }
+}

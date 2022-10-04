@@ -1,0 +1,15 @@
+{
+  "020": {
+    "type": "table",
+    "polist": {
+      "0433-000": {
+        "counts": [],
+        "ovf": {}
+      }
+    },
+    "0433": {
+      "type": "subtable",
+      "polist": {}
+    }
+  }
+}

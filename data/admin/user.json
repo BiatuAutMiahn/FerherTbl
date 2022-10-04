@@ -1,0 +1,17 @@
+{
+  "key": "MGNhODVmMzM5Y2Y1YmFkOTJiZTU0M2Y4MDY5NzQzNDZkMjc5NmRmMDNiMTIxNTMyOTVmNTM5YjIxNDk0ZjAyZmJkNmE4YTg1ZjgxMTViYWJmYmRmYjFmMTY5NjA5NzgwMjBkMWNkMTBlZmIyNTRkZThjODU0YjE3NzE1NWMwMzI2MWQ2YjMxYmFlY2YzMjkyYzdkMjFiYzIzMjk2ZDY0MmZmZWNiMWQ0MDJmM2JiM2U5YWUwMDAxMWJkN2Q2ZTQz",
+  "reset_key": false,
+  "role": "admin",
+  "times": {
+    "created": "20190520000000",
+    "modified": "20221004164401",
+    "accessed": "20221004164401"
+  },
+  "detail": {
+    "FirstName": "Chris",
+    "LastName": "G*****",
+    "Email": "C******************n@hotmail.com",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

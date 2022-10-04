@@ -1,0 +1,17 @@
+{
+  "key": "ZTEyZjkyNTVlMzY3MjZmMDkxYjcyMWRlZGUyYWYzYWI0ZDA1MDZmNjVlOTMyMGRmYjkwOTIyY2E3N2UzZWM3MGQxNGUxZGE0YTdmOTgxMzY5NmE0NTljOGQ4ZTM1NmYzOGY4MjEyODNlY2Y3NTQxYTNlYjhiMjU5NmUwZGJmNGJkNjNhMDczZjExYzZjNjEyMDMwNDE0NTNmOTA5MTM4NDgxZGMzOTJlYThkZGI0MjFlMDNjOWZiNGM4ZmRkZjE5",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190520000000",
+    "modified": "20221004162658",
+    "accessed": "20190725204829"
+  },
+  "detail": {
+    "FirstName": "First",
+    "LastName": "Last",
+    "Email": "alias@domain.tld",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

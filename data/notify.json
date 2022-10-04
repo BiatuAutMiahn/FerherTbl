@@ -1,0 +1,70 @@
+{
+  "clients": [
+    "T9152Al70vmiPfnB",
+    "5pNrArwLnX1fQFsg",
+    "wS3e9sftfdxfstwo",
+    "qXbbOb02KjSWxs0l",
+    "QWEkMGBpigrytBda"
+  ],
+  "fehtblmgr": {
+    "T9152Al70vmiPfnB": {
+      "session_id_kill": 0,
+      "session_id_prompt": "",
+      "session_id_notify": "",
+      "session_id_close": 0,
+      "build": "2019.07.17",
+      "times": {
+        "session_id_started": "20221004152217",
+        "last_ack": "20221004152217"
+      }
+    },
+    "qXbbOb02KjSWxs0l": {
+      "session_id_kill": 0,
+      "session_id_prompt": "",
+      "session_id_notify": "",
+      "session_id_close": 0,
+      "build": "2019.07.17",
+      "times": {
+        "session_id_started": "20221004162158",
+        "last_ack": "20221004162158"
+      }
+    },
+    "QWEkMGBpigrytBda": {
+      "session_id_kill": 0,
+      "session_id_prompt": "",
+      "session_id_notify": "",
+      "session_id_close": 0,
+      "build": "2019.07.17",
+      "times": {
+        "session_id_started": "20221004165030",
+        "last_ack": "20221004165030"
+      }
+    }
+  },
+  "fehcounts": {
+    "5pNrArwLnX1fQFsg": {
+      "refresh_counts": 0,
+      "session_id_kill": 0,
+      "session_id_prompt": "",
+      "session_id_notify": "",
+      "session_id_close": 0,
+      "build": "20190716173515",
+      "times": {
+        "session_id_started": "20221004161052",
+        "last_ack": "20221004161052"
+      }
+    },
+    "wS3e9sftfdxfstwo": {
+      "refresh_counts": 0,
+      "session_id_kill": 0,
+      "session_id_prompt": "",
+      "session_id_notify": "",
+      "session_id_close": 0,
+      "build": "20190716173515",
+      "times": {
+        "session_id_started": "20221004161904",
+        "last_ack": "20221004161904"
+      }
+    }
+  }
+}

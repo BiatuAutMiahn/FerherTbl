@@ -1,0 +1,17 @@
+{
+  "key": "NjcxMDViOTdlZTIyMGVlOGI1MzczYjhkNmY3MTg5M2E0ZmU5ODUwOTc4MzkwZTIwNDNkNzFiMjU2NDRkMmViOTM4NTNhNTZkZmIzYWIzNDM3NTVjMGMwNTBkYzE0ODcyNDdkYTc3NjRiY2FjNGY3NzFiMGFmY2E2ODU2ZDgxN2RkNzIzNjdlMjZmZDJlOGYzOGE3ZDhlNjY3MzRjMTBmNjA4ZTUzNWJiZGQ4MzI5YTgwZjA1YWYwN2RjMTQwYzQ5",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190708211242",
+    "modified": "20191022055858",
+    "accessed": "20191022054333"
+  },
+  "detail": {
+    "FirstName": "lele",
+    "LastName": "h****",
+    "Email": "l*********1@yahoo.com",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

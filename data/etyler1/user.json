@@ -1,0 +1,17 @@
+{
+  "key": "Mjc2OTQ0MjIyMTFkZTkyYzhjZjg2ZjA0YjI3ZmU5NDI4YWNjZTE0NGE5YjY4OTIxODU3MmM0NzhjNWVjZmMxYjRkN2EwODAyZDIxYjI1ZTgyZWIwMDZhOTMxOWRjMDk3OTI4M2Y4NTAxYmIxMjNkNmQwMzllMmJlZjlkYTdhY2I0OTNjZjNhNjY5Y2JiZDYzYzAxZTUyNzY0NGY1ZGRmZWE1OWE5N2JkODc0M2ZiY2MwNmUyZTExMDdhZjVkMjIx",
+  "reset_key": false,
+  "role": "user",
+  "times": {
+    "created": "20190712205700",
+    "modified": "20190731093717",
+    "accessed": "20190731084750"
+  },
+  "detail": {
+    "FirstName": "Essence",
+    "LastName": "T****",
+    "Email": "n********5@gmail.com",
+    "Phone": "8001237654",
+    "Shift": "2"
+  }
+}

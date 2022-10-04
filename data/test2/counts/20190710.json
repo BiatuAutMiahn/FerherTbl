@@ -1,0 +1,27 @@
+{
+  "090": {
+    "type": "table",
+    "polist": {}
+  },
+  "1106": {
+    "type": "table",
+    "polist": {},
+    "9999": {
+      "type": "subtable",
+      "polist": {}
+    }
+  },
+  "16S": {
+    "type": "table",
+    "polist": {
+      "182-???": {
+        "counts": [],
+        "ovf": {}
+      },
+      "181-???": {
+        "counts": [],
+        "ovf": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "383": {
+    "type": "table",
+    "polist": {
+      "1292-005": {
+        "counts": [],
+        "ovf": {}
+      }
+    }
+  },
+  "1100": {
+    "type": "table",
+    "polist": {},
+    "0501": {
+      "type": "subtable",
+      "polist": {
+        "2438": {
+          "counts": [
+            "14*1"
+          ],
+          "ovf": {}
+        }
+      }
+    }
+  }
+}
