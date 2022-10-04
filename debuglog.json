@@ -5,6 +5,7 @@
   },
   "20221004": {
     "162105": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/dev_hist.py\", line 467, in <module>\n    wait_key()\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/dev_hist.py\", line 147, in wait_key\n    termios.tcsetattr(fd, termios.TCSAFLUSH, oldterm)\ntermios.error: (5, 'Input/output error')\n",
-    "163917": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/tblmgr.py\", line 2766, in <module>\n    counts=usertbl[table][stable]['polist'][prod]['counts']\nKeyError: '0433'\n"
+    "163917": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/tblmgr.py\", line 2766, in <module>\n    counts=usertbl[table][stable]['polist'][prod]['counts']\nKeyError: '0433'\n",
+    "172135": "Traceback (most recent call last):\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/tblmgr.py\", line 2255, in <module>\n    if not login():\n  File \"/mnt/c/Users/Biatu/Documents/GitHub/FerherTbl/tblmgr.py\", line 244, in login\n    username = input(\"User: \")\nEOFError\n"
   }
 }
