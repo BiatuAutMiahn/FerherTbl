@@ -1,7 +1,8 @@
 # FerherTbl
 Infinity.FerherTbl
 
-Background:
+[Background]
+
 It started as a means to simplify my workload. That was to count inventory at Fehrer Automotive in Duncan, SC. Fehrer Automotive had an inventory issue where the warehouse staff were not properly picking the inventory, and allowing workers to come and grab what they needed for the assembly line without picking it out of the bins. I was hired as a temp through Prologistix in Duncan, SC to help as a cycle counter. At the time there was a team of 4 including the lead. A 1st shift and a 2nd shift.
 
 On day 1 I was given a piece of notepad paper and was instructed to walk up and down each aisle of racking. These isles were like 20 feet or so. Most of the products consist of plastic wrapped pallets of boxes or parts with a piece of paper that had a list of item numbers and counts listed on them. Our job was to list and count everything. At the end of the shift I had 2 sheets front and back full items numbers and counts.
